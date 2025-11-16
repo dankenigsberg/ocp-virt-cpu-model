@@ -128,4 +128,5 @@ This will configure OpenShift Virtualization to use 'SandyBridge' as the default
 Dan Kenigsberg <danken@redhat.com>
 
 ## Testing
-Next to none. Please use with great care!
+Next to none. The script provides nothing but a seemingly reasonable heuristics.
+Please use with great care! Your mileage may vary much.
